@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm a full-stack developer from France.
+
+- :briefcase: My portfolio : https://richard-abaleo.ovh/
+- 📫 How to reach me: richard.abaleo.pro
+
 <!--
 **RichardAbaleo/RichardAbaleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
