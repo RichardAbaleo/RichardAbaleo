@@ -4,8 +4,8 @@ I'm a full-stack developer from France.
 
 - :briefcase: My portfolio : https://richard-abaleo.ovh/
 - 📫 How to reach me: 
-- - :e-mail: email : richard.abaleo.pro
-- :computer: linkedin : https://www.linkedin.com/in/richard-abaleo-1ba9b71bb/
+:e-mail: email : richard.abaleo.pro
+:computer: linkedin : https://www.linkedin.com/in/richard-abaleo-1ba9b71bb/
 
 <!--
 **RichardAbaleo/RichardAbaleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
